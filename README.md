@@ -12,4 +12,6 @@ In this project we had to build a [Recurrent Neural Network](https://en.wikipedi
 - LSTM Cells
 - Embeddings and Word2vec
 
+#### Project Review
 
+Submission 1: [Requires Changes](https://review.udacity.com/#!/reviews/431750/shared)
