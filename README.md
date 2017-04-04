@@ -15,3 +15,5 @@ In this project we had to build a [Recurrent Neural Network](https://en.wikipedi
 #### Project Review
 
 Submission 1: [Requires Changes](https://review.udacity.com/#!/reviews/431750/shared)
+Submission 2: [Meets Specifications](https://review.udacity.com/#!/reviews/433314/shared)
+
